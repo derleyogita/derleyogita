@@ -2,8 +2,8 @@
 <br/>
 
 - 👋 Hi, I’m yogita!
-- 💻 I’m currently working on Android App Development
-- 🌱 I’m currently learning kotlin
+- 💻 I’m currently working on Android App Development using Kotlin
+- 🌱 Exploring Jetpack Compose
 - ❤️ Programming
 - 📫 How to reach me: LinkedIn - [@derleyogita](https://www.linkedin.com/in/yogita-derle-794521165) , Gmail - derleyogita@gmail.com
 
